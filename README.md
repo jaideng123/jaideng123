@@ -3,8 +3,9 @@ I'm a Web/Game Developer that likes to learn new things and solve fun problems. 
 
 - 🔭 Currently working on:
   - [ArrowBall](https://store.steampowered.com/app/1307310/ArrowBall/) - A local multiplayer game built in Unity
-  - [Scratch](https://github.com/jaideng123/Scratch) - A small OpenGl-based rendering engine
+  - [Scratch](https://github.com/jaideng123/Scratch) - A small rendering engine with a world editor
 - 🌱 Currently learning about:
   - Game Design
+  - Gameplay Programming
   - Game Engine & Rendering Tech
 - 😄 Pronouns: He/Him
